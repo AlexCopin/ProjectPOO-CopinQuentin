@@ -1,0 +1,11 @@
+.vscode/
+.vs/
+
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Tt]emp/
+[Uu]ser[Ss]ettings/
+
+*.meta
