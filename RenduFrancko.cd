@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ConsumableGenerator">
+    <Position X="14.5" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAEACUAAAAAAAAAAAIgAAIAAAAAIQEIAAEA=</HashCode>
+      <FileName>Assets\Scripts\ConsumableGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayStat">
+    <Position X="2.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAgAAAABAAgAAAAAAAAAQAAAMA=</HashCode>
+      <FileName>Assets\Scripts\DisplayStat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Element">
+    <Position X="17.5" Y="1.75" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="Element.Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Elements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Elements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Equipment">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Equipment.Category" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Elements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Equipment.Name" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Elements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Equipment.Rarity" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Elements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAICQAAAAAAAAEAAAAAEAIAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\Elements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Consumable">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Consumable.Category" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Elements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Consumable.ConsumableName" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Elements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAgAAAAAAAAAAAAEAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Elements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentGenerator">
+    <Position X="8.25" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAADAAAAAUAAAAQAAAAAAIgAEABAAAAIAEAAAGA=</HashCode>
+      <FileName>Assets\Scripts\EquipmentGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory">
+    <Position X="1.5" Y="1.75" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Inventory.SortOrder">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Inventory.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEBAAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryUI">
+    <Position X="4.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAQAAAAgAAAAAAwAAAACAAAAAAQAAAAAQAAAGg=</HashCode>
+      <FileName>Assets\Scripts\InventoryUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomGenerator">
+    <Position X="11" Y="1.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAAEAgAEA=</HashCode>
+      <FileName>Assets\Scripts\RandomGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
